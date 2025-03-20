@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+nltk
+networkx
+PyPDF2
+python-dotenv 
