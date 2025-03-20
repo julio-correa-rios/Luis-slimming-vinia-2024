@@ -31,7 +31,7 @@ This project combines graph theory with natural language processing to analyse t
 ## Installation
 
 # Clone the repository
-git clone https://github.com/yourusername/text-speech-analysis.git
+git clone https://github.com/julio-correa-rios/Luis-slimming-vinia-2024
 cd text-speech-analysis
 
 # Create and activate a virtual environment (recommended)
@@ -138,7 +138,7 @@ Este proyecto combina teoría de grafos con procesamiento de lenguaje natural pa
 ## Instalación
 
 # Clonar el repositorio
-git clone https://github.com/tunombre/text-speech-analysis.git
+git clone https://github.com/julio-correa-rios/Luis-slimming-vinia-2024
 cd text-speech-analysis
 
 # Crear y activar un entorno virtual (recomendado)
